@@ -19,7 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"caocaocao");
 }
-
+-(void)CeshiFenzhi{
+    NSLog(@"ceshifenzhi");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
